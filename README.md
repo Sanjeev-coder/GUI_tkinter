@@ -1,10 +1,10 @@
-# Supervisor Allocation 
+# Supervisor Allocation 🔥👨🏻‍💻
 ### GUI by Python
 
 Created various pages by using tkinter library of Python.
 
 
-## Screenshots
+## Screenshots 
 
 ![App Screenshot](https://github.com/Sanjeev-coder/GUI_tkinter/blob/main/Screenshot%202022-03-30%20at%203.25.45%20PM.png?raw=true)
 ![App Screenshot](https://github.com/Sanjeev-coder/GUI_tkinter/blob/main/Screenshot%202022-03-30%20at%203.25.59%20PM.png?raw=true)
