@@ -1,5 +1,5 @@
-# Supervisor Allocation 🔥👨🏻‍💻
-### GUI by Python
+# Supervisor Allocation Portal 🔥👨🏻‍💻
+### GUI by Python(tkinter)
 
 Created various pages by using tkinter library of Python.
 
